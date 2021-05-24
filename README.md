@@ -12,7 +12,7 @@ and all.
 Requires Python3.
 
 ```
-git clone https://github.com/AgentTroll/dupe.git
+git clone https://github.com/caojohnny/dupe.git
 cd dupe
 python dupe.py [filepath]
 ```
